@@ -5,6 +5,9 @@ A great professional looking and  responsive personal website to showcase my dev
 ## Feature List and Screenshots
 ### [Visit Website](https://chandrabhan-rahangdale-portfolio..netlify.app)
 
+![Alt text](./readme-image/hero-img.png)
+
+
 <!--
 ### Features
 ```
