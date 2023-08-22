@@ -1,10 +1,11 @@
-<!-- # Personal-Portfolio
+# Personal-Portfolio
 # Responsive Personal Portfolio Website 
-A great professional looking and fully responsive personal website to showcase your development portfolio.
+A great professional looking and  responsive personal website to showcase my development portfolio.
 
 ## Feature List and Screenshots
-### [Visit Website](https://animesh-rawat.web.app/)
+### [Visit Website](https://chandrabhan-rahangdale-portfolio..netlify.app)
 
+<!--
 ### Features
 ```
 1. Dark and Light themes
