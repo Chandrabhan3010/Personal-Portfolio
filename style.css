@@ -349,6 +349,7 @@ article .icon{
 	justify-content: center;
 	flex-direction: column;
 	height: 70vh;
+	margin-top: -7rem;  /*this is optional*/
 }
 .contact-info-upper-container{
 	display: flex;
