@@ -38,7 +38,7 @@ btn {
 
 nav,
 .nav-links {
-	display: flex
+	display: flex;
 }
 
 nav {
@@ -60,10 +60,10 @@ a {
 }
 
 a:hover {
-	color: var(--first-color);    /* grey */
+	color: var(--second-color);    /* grey */
 	text-decoration: underline;
 	text-underline-offset: 1rem;
-	text-decoration-color: var(--second-color);  /* rbg(181,181,181) */
+	text-decoration-color:var(--first-color);  /* rbg(181,181,181) */
 }
 
 .logo {
