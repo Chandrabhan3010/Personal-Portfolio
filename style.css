@@ -378,3 +378,13 @@ article .icon{
 .email-icon:hover{
 	background-color: white;
 }
+
+/* footer section */
+footer{
+	height: 26vh;
+	margin: 0 auto;
+	margin-top: -20rem;
+}
+footer p{
+	text-align: center;
+}
